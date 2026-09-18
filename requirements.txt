@@ -1,0 +1,10 @@
+streamlit
+pandas
+gdown
+pdfplumber
+scikit-learn
+openpyxl
+python-docx
+pytesseract
+pdf2image
+requests
